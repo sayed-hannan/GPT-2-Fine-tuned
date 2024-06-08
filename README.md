@@ -27,7 +27,7 @@ The best way to write a
 
 # Response generated after fine tuning.
 
-# 1. General Knowledge and Factual Accuracy
+## 1. General Knowledge and Factual Accuracy
 
 ### Prompt: "Who was the first president of the United States, and what were some of his notable achievements?"
 
@@ -41,7 +41,7 @@ The chloroplasts are the primary producers of energy, and they are responsible f
 
 ---
 
-# 2. Text Understanding and Summarization
+## 2. Text Understanding and Summarization
 
 ### Prompt: "Summarize the following paragraph: 'The Great Wall of China is an ancient series of walls and fortifications located in northern China, built around 500 years ago.'"
 
@@ -53,7 +53,7 @@ The chloroplasts are the primary producers of energy, and they are responsible f
 
 ---
 
-# 3. Creativity and Story Generation
+## 3. Creativity and Story Generation
 
 ### Prompt: "Write a short story about a dragon who befriends a knight."
 
@@ -65,7 +65,7 @@ One day, Gaius was approached by a knight named Gaius. Gaius was a brave and bra
 
 ---
 
-# 4. Problem-Solving and Logical Reasoning
+## 4. Problem-Solving and Logical Reasoning
 
 ### Prompt: "If a train travels 300 miles in 5 hours, what is its average speed?"
 
@@ -79,7 +79,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 5. Language Translation
+## 5. Language Translation
 
 ### Prompt: "Translate the following sentence into French: 'The weather is nice today.'"
 
@@ -87,7 +87,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 6. Opinion and Argumentation
+## 6. Opinion and Argumentation
 
 ### Prompt: "Do you think technology is more beneficial or harmful to society? Provide reasons for your answer."
 
@@ -99,7 +99,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 7. Humor and Wit
+## 7. Humor and Wit
 
 ### Prompt: "Tell a joke about computers."
 
@@ -111,7 +111,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 8. Ethics and Philosophy
+## 8. Ethics and Philosophy
 
 ### Prompt: "Is it ethical to use animals in scientific research? Discuss the pros and cons."
 
@@ -127,7 +127,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 9. Technical Explanation
+## 9. Technical Explanation
 
 ### Prompt: "Explain the difference between TCP and UDP in computer networks."
 
@@ -139,7 +139,7 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 
 ---
 
-# 10. Current Events and Analysis
+## 10. Current Events and Analysis
 
 ### Prompt: "Discuss the impact of the COVID-19 pandemic on global economies."
 
@@ -159,4 +159,5 @@ Volume = (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4) * (1/4)
 - GPT-2 can not translate languages.
 But being a very small model with 140 millions paramerters it did good, though we cannot compare it with LLMs which are in Billions of parameters( comparing cycle with spacship ).
 
-Final Note: This project was a thrilling and educational journey. Despite the constraints and challenges, I learned an immense amount about fine-tuning models and working within the limitations of available resources. The process tested my technical skills and fostered a spirit of innovation and perseverance. I’m proud of the progress made and the valuable insights gained along the way. Feel free to critique and share your thoughts—I’m eager to hear feedback and continue growing in this fascinating field of AI.
+**Final Note** 
+This project was a thrilling and educational journey. Despite the constraints and challenges, I learned an immense amount about fine-tuning models and working within the limitations of available resources. The process tested my technical skills and fostered a spirit of innovation and perseverance. I’m proud of the progress made and the valuable insights gained along the way. Feel free to critique and share your thoughts—I’m eager to hear feedback and continue growing in this fascinating field of AI.
